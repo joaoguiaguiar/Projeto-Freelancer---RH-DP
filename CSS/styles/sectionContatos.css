@@ -1,0 +1,80 @@
+.section__contatos{
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 4rem;
+    width: 85%;
+}
+
+.container__contato{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+    gap: 2rem;
+}
+
+.icon__whpp{
+    font-size: 3rem;
+}
+
+#formulario__faleConosco{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+input {
+    width: 100%; 
+    box-sizing: border-box; 
+    margin-bottom: 10px; 
+    border-radius: 0.5rem;
+    border-style: solid;
+}
+
+textarea {
+    width: 100%; 
+    box-sizing: border-box; 
+    margin-bottom: 10px; /
+}
+
+.container__nome,
+.container__telefone {
+    width: 100%; 
+}
+
+.cotainer__email,
+.container__mensagem {
+    width: 100%; 
+}
+
+.container__botao{
+    display: flex;
+    justify-content: center;
+}
+
+.botao{
+    background-color: #11235A;
+    padding: 0.5em 2em;
+    border-radius: 1rem;
+    color: white;
+}
+
+.botao:hover{
+    background-color: #11235a93;
+}
+
+@media (min-width: 992px) {
+
+    .section__contatos{
+        margin-left: 5rem;
+    }
+
+
+    .container__contato, .container__faleConosco {
+        padding: 8rem;
+    }
+}
