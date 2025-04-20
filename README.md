@@ -25,8 +25,9 @@ Foi uma experiência completa: desde o levantamento dos requisitos até a entreg
 Inicialmente, o site foi hospedado em um servidor contratado pela cliente.  
 Atualmente, está disponível na **Vercel**, como parte do meu portfólio:
 
-> **Acesse aqui**: [https://SEU-LINK.vercel.app](https://SEU-LINK.vercel.app)  
-> _(Substituir pelo link real)_
+> **Acesse aqui**: [https://terceirizacaodp.vercel.app:
+/](https://terceirizacaodp.vercel.app/)  
+
 
 ## Observações  
 - Este repositório contém **apenas os arquivos autorais e públicos**.  
