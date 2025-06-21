@@ -1,5 +1,5 @@
 # Website Institucional – Empresa de RH e DP  
-🧑‍💼💻 _Meu primeiro site vendido oficialmente!_
+🕴️💻 _Meu primeiro site vendido oficialmente!_
 
 ## Sobre o projeto  
 Este projeto representa o desenvolvimento e a entrega do **meu primeiro website comercial**, feito sob medida para uma empresa de terceirização de **Recursos Humanos (RH)** e **Departamento Pessoal (DP)**.
